@@ -1,0 +1,14 @@
+{
+    "email": "john.doe@example.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "role": "student"
+}
+{
+    "title": "Introduction to Python",
+    "description": "Learn Python programming from scratch",
+    "instructorId": "instructor123",
+    "category": "Programming",
+    "level": "beginner",
+    "price": 99.99
+}
